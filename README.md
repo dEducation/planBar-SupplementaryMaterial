@@ -23,8 +23,8 @@ DB name: <i>planBarDB</i><br>
 DB user: <i>planBarUser</i><br>
 DB password: <i>1234567890</i>
 
-### planBar_SASS.sql
-SQL script to fill some test data into planBar_SASS. The application can then be tested with the user <i>student&#64;planbar.ch</i> (password: student).
+### planBar_Test.sql
+SQL script to create necessary databases and users as well as to fill some test data into planBar_SASS. The application can then be tested with the user <i>student&#64;planbar.ch</i> (password: student).
 
 ### planBar_Frontend
 Built ReactJS-Application connecting to localhost on ports 9001 (PBAS) and 9002 (SASS).
