@@ -1,5 +1,5 @@
 # planBar: Supplementary Material
-This repository contains all the material to the paper "planBar – A Time Management Tool for Students at Swiss High Schools". The paper was submitted to University of Freiburg in August 2022("GymInf" Master Equivalent in Computer Science).
+This repository contains all the material to the paper "planBar – A Time Management Tool for Students at Swiss High Schools". The paper was submitted to University of Freiburg in August 2022 ("GymInf" Master Equivalent in Computer Science).
 
 ## planBar_Paper.pdf
 Final version of the planBar paper.
