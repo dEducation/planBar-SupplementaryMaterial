@@ -11,7 +11,7 @@ All figures shown in the paper (high resolution)
 Screenshots of the application showing the different states during the development of planBar.
 
 ## /planBar_Application
-The application is only for test purpose, is not to be considered as an open-source software, and must not be deployed in any way.
+The application (v1, august 2022) is only for test purpose, is not to be considered as an open-source software, and must not be deployed in any way.
 ### planBar_PBAS.jar
 Runs as a localhost service on port 9001 and needs the following mySQL database:<br>
 DB name: <i>planBarDB</i><br>
