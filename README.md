@@ -11,16 +11,16 @@ All figures shown in the paper (high resolution)
 Screenshots of the application showing the different states during the development of planBar.
 
 ## /planBar_Application
-The application is only for test purpose and must not be deployed in any way.
+The application is only for test purpose, is not to be considered as an open-source software, and must not be deployed in any way.
 ### planBar_PBAS.jar
-Runs as a localhost service on port 9001 and needs the following database:
-DB name: planBarDB
-DB user: planBarUser
+Runs as a localhost service on port 9001 and needs the following database:<br>
+DB name: planBarDB<br>
+DB user: planBarUser<br>
 DB password: 1234567890
 ### planBar_SASS.jar
-Runs as a localhost service on port 9002 and needs the following database:
-DB name: planBarDB
-DB user: planBarUser
+Runs as a localhost service on port 9002 and needs the following database:<br>
+DB name: planBarDB<br>
+DB user: planBarUser<br>
 DB password: 1234567890
 
 ### planBar_Frontend
