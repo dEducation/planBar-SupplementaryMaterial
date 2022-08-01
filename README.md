@@ -13,15 +13,18 @@ Screenshots of the application showing the different states during the developme
 ## /planBar_Application
 The application is only for test purpose, is not to be considered as an open-source software, and must not be deployed in any way.
 ### planBar_PBAS.jar
-Runs as a localhost service on port 9001 and needs the following database:<br>
+Runs as a localhost service on port 9001 and needs the following mySQL database:<br>
 DB name: planBarDB<br>
 DB user: planBarUser<br>
 DB password: 1234567890
 ### planBar_SASS.jar
-Runs as a localhost service on port 9002 and needs the following database:<br>
+Runs as a localhost service on port 9002 and needs the following mySQL database:<br>
 DB name: planBarDB<br>
 DB user: planBarUser<br>
 DB password: 1234567890
+
+### planBar_SASS.sql
+SQL script to fill some test data into planBar_SASS. The application can then be tested with the user <i>student&#64;planbar.ch</i> (password: student).
 
 ### planBar_Frontend
 Built ReactJS-Application connecting to localhost on ports 9001 (PBAS) and 9002 (SASS).
