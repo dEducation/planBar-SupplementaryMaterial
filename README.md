@@ -12,12 +12,12 @@ Screenshots of the application showing the different states during the developme
 
 ## /planBar_Application
 The application (v1, august 2022) is only for test purpose, is not to be considered as an open-source software, and must not be deployed in any way.
-### planBar_PBAS.jar
+### planBar_PBA.jar
 Runs as a localhost service on port 9001 and needs the following mySQL database:<br>
 DB name: <i>planBarDB</i><br>
 DB user: <i>planBarUser</i><br>
 DB password: <i>1234567890</i>
-### planBar_SASS.jar
+### planBar_SAS.jar
 Runs as a localhost service on port 9002 and needs the following mySQL database:<br>
 DB name: <i>planBarDB</i><br>
 DB user: <i>planBarUser</i><br>
