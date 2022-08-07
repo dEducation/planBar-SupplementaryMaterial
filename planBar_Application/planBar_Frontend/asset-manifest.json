@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.b3c64546.css",
-    "main.js": "/static/js/main.e1e4fa4d.js",
-    "static/js/810.c07892dd.chunk.js": "/static/js/810.c07892dd.chunk.js",
-    "static/js/787.726d94da.chunk.js": "/static/js/787.726d94da.chunk.js",
-    "static/media/trash.mp3": "/static/media/trash.8c8dc4b9354ecad63b1f.mp3",
-    "service-worker.js": "/service-worker.js",
-    "static/media/magicSpell.mp3": "/static/media/magicSpell.144b136ddd087c8074d3.mp3",
-    "static/media/whiz.mp3": "/static/media/whiz.eb5f94a36cdb4d9133d9.mp3",
-    "index.html": "/index.html",
-    "main.b3c64546.css.map": "/static/css/main.b3c64546.css.map",
-    "main.e1e4fa4d.js.map": "/static/js/main.e1e4fa4d.js.map",
-    "810.c07892dd.chunk.js.map": "/static/js/810.c07892dd.chunk.js.map",
-    "787.726d94da.chunk.js.map": "/static/js/787.726d94da.chunk.js.map"
+    "main.css": "/planbar/static/css/main.b3c64546.css",
+    "main.js": "/planbar/static/js/main.fbf57194.js",
+    "static/js/810.c07892dd.chunk.js": "/planbar/static/js/810.c07892dd.chunk.js",
+    "static/js/787.726d94da.chunk.js": "/planbar/static/js/787.726d94da.chunk.js",
+    "static/media/trash.mp3": "/planbar/static/media/trash.8c8dc4b9354ecad63b1f.mp3",
+    "service-worker.js": "/planbar/service-worker.js",
+    "static/media/magicSpell.mp3": "/planbar/static/media/magicSpell.144b136ddd087c8074d3.mp3",
+    "static/media/whiz.mp3": "/planbar/static/media/whiz.eb5f94a36cdb4d9133d9.mp3",
+    "index.html": "/planbar/index.html",
+    "main.b3c64546.css.map": "/planbar/static/css/main.b3c64546.css.map",
+    "main.fbf57194.js.map": "/planbar/static/js/main.fbf57194.js.map",
+    "810.c07892dd.chunk.js.map": "/planbar/static/js/810.c07892dd.chunk.js.map",
+    "787.726d94da.chunk.js.map": "/planbar/static/js/787.726d94da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b3c64546.css",
-    "static/js/main.e1e4fa4d.js"
+    "static/js/main.fbf57194.js"
   ]
 }
