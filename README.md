@@ -15,16 +15,16 @@ The application (v1, august 2022) is only for demo purpose, is not to be conside
 1. Create the two necessary mySQL databases (localhost) and users by running <i>planBarDEMO_CREATE.sql</i> within your local mySQL engine.
 2. Run the applications <i>planBarDEMO_SAS.jar</i> and <i>planBarDEMO_PBA.jar</i> in order to create the required database structures
 3. Stop the java applications (<i>planBarDEMO_SAS.jar</i> and <i>planBarDEMO_PBA.jar</i>) and fill your databases with some data by running the script <i>planBarDEMO_FILL.sql</i>. Then restart the java applications (<i>planBarDEMO_SAS.jar</i> and <i>planBarDEMO_PBA.jar</i>).
-4. Serve the frontend (ReactJS App) with a static server (yarn global add serve, serve -s .) and login to the application with the following credentials:
-User: <i>student&#64;planbar.ch</i>
+4. Serve the frontend (ReactJS App) with a static server (yarn global add serve, serve -s .) and login to the application with the following credentials:<br>User: <i>student&#64;planbar.ch</i><br>
 Password: <i>student</i>
+
 Note: Wednesday, 2022-05-11 will be considered as "today"
 
 ### planBarDEMO_CREATE.sql
 SQL script to create necessary databases (localhost).
 
 ### planBarDEMO_FILL.sql
-SQL script to fill some test data into the databases (localhost). The application (Frontend with running PBA and SAS) can then be tested with the user <i>student&#64;planbar.ch</i> (password: student).
+SQL script to fill some test data into the databases (localhost).
 
 ### planBarDEMO_PBA.jar
 Runs as a localhost service on port 9001 and needs the following mySQL database on localhost:3306<br>
