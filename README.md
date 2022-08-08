@@ -1,17 +1,17 @@
 # planBar: Supplementary Material
-This repository contains all the material to the paper "planBar – A Time Management Tool for Students at Swiss High Schools". The paper was submitted to University of Freiburg in August 2022 ("GymInf" Master Equivalent in Computer Science).
+This repository contains all the material to the paper "planBar – A Time Management Tool for Students at Swiss High Schools". The paper was submitted to University of Fribourg in August 2022 ("GymInf", Master Equivalent in Computer Science).
 
 ## planBar_Paper.pdf
-Final version of the planBar paper.
+Final version of the paper.
 
 ## /Figures
-All figures shown in the paper (high resolution)
+All figures used in the paper (high resolution)
 
 ## /planBar_Screenshots
-Screenshots of the application showing the different states during the development of planBar.
+Screenshots of the application showing different states during the development of planBar.
 
 ## /planBar_Application
-The application (v1, august 2022) is only for demo purpose, is not to be considered as an open-source software, and must not be published. To run the demo application, follow the following four steps:
+The application (v1, August 2022) is only for demo purpose, is not to be considered as an open-source software, and must not be published. To run the demo application, follow the following four steps:
 1. Create the two necessary mySQL databases (localhost) and users by running <i>planBarDEMO_CREATE.sql</i> within your local mySQL engine.
 2. Run the applications <i>planBarDEMO_SAS.jar</i> and <i>planBarDEMO_PBA.jar</i> in order to create the required database structures
 3. Stop the java applications (<i>planBarDEMO_SAS.jar</i> and <i>planBarDEMO_PBA.jar</i>) and fill your databases with some data by running the script <i>planBarDEMO_FILL.sql</i>. Then restart the java applications (<i>planBarDEMO_SAS.jar</i> and <i>planBarDEMO_PBA.jar</i>).
@@ -38,4 +38,4 @@ DB user: <i>planBarSASUser</i><br>
 DB password: <i>1234567890</i>
 
 ### planBar_Frontend
-Built ReactJS-Application connecting to localhost on ports 9001 (PBA) and 9002 (SAS). Wednesday, 2022-05-11 will be considered as "today". You may serve it with a static server (npm install -g serve, serve /planBar_Frontend)
+Built ReactJS-Application connecting to localhost on ports 9001 (PBA) and 9002 (SAS). Wednesday, 2022-05-11 will be considered as "today". It can be served with a static server (npm install -g serve, serve /planBar_Frontend)
