@@ -1,16 +1,19 @@
 # planBar: Supplementary Material
 This repository contains all the material to the paper "planBar – A Time Management Tool for Students at Swiss High Schools". The paper was submitted to University of Fribourg in August 2022 ("GymInf", Master Equivalent in Computer Science).
 
-## planBar_Paper.pdf
-Final version of the paper.
+## /01_planBar_Paper
+Final version (2022-08-08) of the paper.
 
-## /Figures
+## /02_Figures
 All figures used in the paper (high resolution)
 
-## /planBar_Screenshots
+## /03_Questionnaires
+Questionnaires used in the project.
+
+## /04_planBar-Screenshots-History
 Screenshots of the application showing different states during the development of planBar.
 
-## /planBar_Application
+## /05_planBar-Application
 The application (v1, August 2022) is only for demo purpose, is not to be considered as an open-source software, and must not be published. To run the demo application, follow the following four steps:
 1. Create the two necessary mySQL databases (localhost) and users by running <i>planBarDEMO_CREATE.sql</i> within your local mySQL engine.
 2. Run the applications <i>planBarDEMO_SAS.jar</i> and <i>planBarDEMO_PBA.jar</i> in order to create the required database structures
