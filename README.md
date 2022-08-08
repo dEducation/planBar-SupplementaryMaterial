@@ -11,7 +11,7 @@ All figures shown in the paper (high resolution)
 Screenshots of the application showing the different states during the development of planBar.
 
 ## /planBar_Application
-The application (v1, august 2022) is only for demo purpose, is not to be considered as an open-source software, and must not be made public in any way. To run the demo application, follow the following four steps:
+The application (v1, august 2022) is only for demo purpose, is not to be considered as an open-source software, and must not be published. To run the demo application, follow the following four steps:
 1. Create the two necessary mySQL databases (localhost) and users by running <i>planBarDEMO_CREATE.sql</i> within your local mySQL engine.
 2. Run the applications <i>planBarDEMO_SAS.jar</i> and <i>planBarDEMO_PBA.jar</i> in order to create the required database structures
 3. Stop the java applications (<i>planBarDEMO_SAS.jar</i> and <i>planBarDEMO_PBA.jar</i>) and fill your databases with some data by running the script <i>planBarDEMO_FILL.sql</i>. Then restart the java applications (<i>planBarDEMO_SAS.jar</i> and <i>planBarDEMO_PBA.jar</i>).
