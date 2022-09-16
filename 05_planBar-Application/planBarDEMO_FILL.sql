@@ -13,7 +13,8 @@ UPDATE klasse SET klassenlehrer_id=2 WHERE id=1;
 
 INSERT INTO `semester` VALUES
 	(1,'2022-01-21','HS 2021','2021-08-16'),
-    (2,'2022-08-21','FS 2022','2022-01-22');
+    (2,'2022-12-31','FS 2022 / HS 2022','2022-01-22');
+    # or there will be problems with the date (2,'2022-08-21','FS 2022','2022-01-22');
 
 INSERT INTO `fach` VALUES
 	(1,'Deutsch','D'),
@@ -89,7 +90,8 @@ use planBarApp;
 
 INSERT INTO `semester` (`id`,`enabled`,`end_date`,`max_number_of_exams`,`name`,`start_date`) VALUES
 	(1,_binary '','2022-01-21',5,'HS 2021','2021-08-16'),
-    (2,_binary '','2022-08-21',5,'FS 2022','2022-01-22');
+    (2,_binary '','2022-12-31',5,'FS 2022 / HS 2022','2022-01-22');
+     # or there will be problems with the date (2,_binary '','2022-10-01',5,'FS 2022','2022-01-22');
 
 INSERT INTO `holiday` (`id`,`end_date`,`name`,`start_date`,`semester_id`) VALUES
 	(1,'2022-01-02','Weihnachtsferien','2021-12-19',1),
